@@ -1,0 +1,150 @@
+{
+  "project_info": {
+    "project_number": "718415640332",
+    "project_id": "tedamoun-api",
+    "storage_bucket": "tedamoun-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718415640332:android:98f2b614eb061d89677b29",
+        "android_client_info": {
+          "package_name": "com.example.fire_not"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718415640332-lqqvgqi0vk690ooep54ao63g6nv6j0m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-d-LBdlOOQQ3iKnHFtAlJ7ZLWUMaF7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718415640332-lqqvgqi0vk690ooep54ao63g6nv6j0m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718415640332-gh533jbblqgrvlfdv86k8k0agt6osnb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tedamounBusiness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718415640332:android:23a445ef8323d0b5677b29",
+        "android_client_info": {
+          "package_name": "com.example.tedamoun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718415640332-4a22vr90010ug5ghq5qct3mbdrvei35h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tedamoun",
+            "certificate_hash": "d2e6f6dbe6e2f759c049174e0074a799aa92c0c8"
+          }
+        },
+        {
+          "client_id": "718415640332-o3qbiq4gmsqm5tquo1cq5424sgetjr9d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tedamoun",
+            "certificate_hash": "86100475214bb81572cc8dd44556814c2d3f3dd4"
+          }
+        },
+        {
+          "client_id": "718415640332-lqqvgqi0vk690ooep54ao63g6nv6j0m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-d-LBdlOOQQ3iKnHFtAlJ7ZLWUMaF7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718415640332-lqqvgqi0vk690ooep54ao63g6nv6j0m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718415640332-gh533jbblqgrvlfdv86k8k0agt6osnb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tedamounBusiness"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718415640332:android:1840f87438920b8c677b29",
+        "android_client_info": {
+          "package_name": "com.example.tedamoun_business"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718415640332-eoa9pdhobvoi6kfmci746uhhmlstlitr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tedamoun_business",
+            "certificate_hash": "d2e6f6dbe6e2f759c049174e0074a799aa92c0c8"
+          }
+        },
+        {
+          "client_id": "718415640332-skjudf1qvul2rkcjau7hkj3mslq76d75.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tedamoun_business",
+            "certificate_hash": "86100475214bb81572cc8dd44556814c2d3f3dd4"
+          }
+        },
+        {
+          "client_id": "718415640332-lqqvgqi0vk690ooep54ao63g6nv6j0m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo-d-LBdlOOQQ3iKnHFtAlJ7ZLWUMaF7I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718415640332-lqqvgqi0vk690ooep54ao63g6nv6j0m3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "718415640332-gh533jbblqgrvlfdv86k8k0agt6osnb7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tedamounBusiness"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
